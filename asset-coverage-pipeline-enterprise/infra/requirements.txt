@@ -2,3 +2,5 @@ requests
 pandas
 ldap3
 urllib3
+from pyspark.sql import SparkSession
+spark_df
