@@ -1,0 +1,4 @@
+requests
+pandas
+ldap3
+urllib3
